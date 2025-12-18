@@ -297,7 +297,11 @@ npm run test:e2e
 # Testes com coverage
 npm run test:cov
 ```
-
+## Informações gerais
+- **Público alvo**: alunos da disciplina de POS (Programação Orientada a Serviços) do curso de Infoweb (Técnico Integrado em Informática para Internet) no CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central)
+- **Professor**: [L A Minora](https://github.com/leonardo-minora/)
+- **Aluno**: [Iasmim Souto](https://github.com/iasps/)
+- 
 ## 📝 Critérios de Avaliação
 
 - ✅ Fork do repositório realizado
@@ -321,7 +325,7 @@ npm run test:cov
 
 ## 🤝 Contribuindo
 
-Se encontrar problemas ou tiver sugestões de melhoria, abra uma issue ou pull request.
+Se encontrar problemas ou tiver sugestões de melhoria, abra uma issue ou pull request. 
 
 ## 📄 Licença
 
